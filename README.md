@@ -5,7 +5,7 @@ Write a SQL query to calculate each investor's portfolio allocation percentage b
 
 ## Database Schema
 
-**investor_transactions**
+**investor_transactions** 
 - `investor_id` (INTEGER)
 - `sector_id` (INTEGER)
 - `no_of_shares` (INTEGER)
